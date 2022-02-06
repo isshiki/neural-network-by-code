@@ -1,0 +1,1 @@
+[第1回のノートブック](https://github.com/isshiki/neural-network-by-code/tree/main/01-forward-prop/nn_from_scratch_without_numpy.ipynb)に統合されています。
